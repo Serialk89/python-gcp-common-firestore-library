@@ -1,5 +1,15 @@
-# activate venv
- source ../python-venv/bin/activate
+# Firestore common python library
+
+Firestore common python library es una libreria para uso general, la cual contiene logica relacionado a firestore. Agregar, eliminar, etc.
+
+## Authors
+
+- [@Serialk89](https://github.com/Serialk89)
+
+
+## Crear y activar venv
+python -m venv <directory>
+source ../python-venv/bin/activate
  
 # Update pip
 python3 -m pip install --upgrade pip
