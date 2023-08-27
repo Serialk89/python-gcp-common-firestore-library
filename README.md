@@ -7,12 +7,36 @@ Firestore common python library es una libreria para uso general, la cual contie
 - [@Serialk89](https://github.com/Serialk89)
 
 
+## Installation
+
+Install the library with pip
+
+```bash
+  cd my-project
+  pip install firestore-common-jimmykvick
+```
+
+## Tests
+
+For test, in the root folder run:
+
+```bash
+  pip install pytest
+  pytest tests/
+```
+    
 ## Crear y activar venv
-python -m venv <directory>
-source ../python-venv/bin/activate
+
+```bash
+  python -m venv <directory>
+  source ../python-venv/bin/activate 
+```
+
  
 # Update pip
+```bash
 python3 -m pip install --upgrade pip
+```
 
 # src
 packaging_tutorial/
