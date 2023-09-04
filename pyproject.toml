@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "firebase_tools_jimmykvick"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Author", email="jaime.quinones.t@gmail.com" },
 ]
